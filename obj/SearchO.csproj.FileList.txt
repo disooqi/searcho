@@ -1,0 +1,12 @@
+obj\Debug\SearchO.exe
+obj\Debug\SearchO.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SearchO.BuildingIndex.resources
+obj\Debug\Microsoft.Samples.DirectorySearcher.DirectorySearcher.resources
+obj\Debug\SearchO.Form1.resources
+obj\Debug\frmStatus.resources
+obj\Debug\SearchO.csproj.GenerateResource.Cache
+bin\Debug\SearchO.exe
+bin\Debug\SearchO.pdb
+bin\Debug\itextsharp.dll
+bin\Debug\SharpZipLib.dll

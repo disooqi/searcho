@@ -1,0 +1,14 @@
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.exe
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.pdb
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\bin\Debug\SearchO.exe
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\bin\Debug\SearchO.pdb
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\bin\Debug\itextsharp.dll
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\bin\Debug\SharpZipLib.dll
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\ResolveAssemblyReference.cache
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.BuildingIndex.resources
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\Microsoft.Samples.DirectorySearcher.DirectorySearcher.resources
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.Form1.resources
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\frmStatus.resources
+C:\D\Work\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.csproj.GenerateResource.Cache
+D:\Work\Goals\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.exe
+D:\Work\Goals\Master\Software\Visual Studio Projects\SearchO\obj\Debug\SearchO.pdb
